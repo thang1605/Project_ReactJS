@@ -6,13 +6,13 @@ function App() {
 
   return (
     <div >
-      {/* <BrowserRouter>
+      <BrowserRouter>
         <Routes>
           <Route index element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/detail/:id" element={<Detail />} />
         </Routes>git branch -M main
-      </BrowserRouter> */}aaaa
+      </BrowserRouter>
     </div>
   );
 }
