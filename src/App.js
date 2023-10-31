@@ -11,7 +11,7 @@ function App() {
           <Route index element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/detail/:id" element={<Detail />} />
-        </Routes>git branch -M main
+        </Routes>
       </BrowserRouter>
     </div>
   );
